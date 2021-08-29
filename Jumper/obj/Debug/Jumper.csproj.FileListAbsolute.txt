@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\Jumper\Jumper\bin\Debug\Jumper.exe.config
+C:\Users\Igor\Desktop\Jumper\Jumper\bin\Debug\Jumper.exe
+C:\Users\Igor\Desktop\Jumper\Jumper\bin\Debug\Jumper.pdb
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.Character.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.Enemy.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.Form1.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.Form2.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.Form3.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.Properties.Resources.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.World.resources
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.exe
+C:\Users\Igor\Desktop\Jumper\Jumper\obj\Debug\Jumper.pdb

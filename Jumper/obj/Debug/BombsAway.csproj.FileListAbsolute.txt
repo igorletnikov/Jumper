@@ -1,0 +1,30 @@
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\bin\Debug\BombsAway.exe.config
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\bin\Debug\BombsAway.exe
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\bin\Debug\BombsAway.pdb
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.World.resources
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.exe
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.pdb
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.Form2.resources
+C:\Users\Igor\Desktop\New folder (4)\BombsAway\obj\Debug\BombsAway.Form3.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.Form1.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.Form2.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.Form3.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Jumper\BombsAway\bin\Debug\BombsAway.exe.config
+C:\Users\Igor\Desktop\Jumper\BombsAway\bin\Debug\BombsAway.exe
+C:\Users\Igor\Desktop\Jumper\BombsAway\bin\Debug\BombsAway.pdb
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.Character.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.Enemy.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.Properties.Resources.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.World.resources
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.exe
+C:\Users\Igor\Desktop\Jumper\BombsAway\obj\Debug\BombsAway.pdb
